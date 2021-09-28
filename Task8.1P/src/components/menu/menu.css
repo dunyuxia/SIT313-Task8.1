@@ -1,0 +1,9 @@
+.menu {
+    width: auto;
+    height: 60px;
+    background: #ccc;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
